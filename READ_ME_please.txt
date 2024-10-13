@@ -20,6 +20,15 @@ One dataset for classification purposes
 Target variable is a classification target with certain amount of options which is taking the loan - yes/no
 The link for the dataset: https://www.kaggle.com/datasets/rouseguy/bankbalanced
 
+
+The GitHub link for manual EDA for these datasets which I did last year:
+https://github.com/crypt0kitik/Introduction-to-Machine-Learning-Methods/tree/main
+
+
+
+
+
+
 Questions:
 
 - Target variable distribution, is it optimal?
