@@ -1,5 +1,17 @@
 Evaluating dataset quality
 
+Goal: evaluate datasets' quality
+
+In this project I have 2 datasets. I started to work with the regression one which is about IMBD rating movie and for this one I tested the next tools: 
+- Autoviz
+- Dataprer
+- LIME
+- Phik-matrix
+- Sweetviz
+- Ydata
+
+After that the same operations I did for the linear regression dataset.
+
 One dataset for regression purposes
 Target variable is a continuous value which is rating of a movie
 The link for the dataset: https://www.kaggle.com/datasets/kianindeed/imdb-movie-dataset-dec-2023  
