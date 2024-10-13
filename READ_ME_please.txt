@@ -9,8 +9,9 @@ In this project I have 2 datasets. I started to work with the regression one whi
 - Phik-matrix
 - Sweetviz
 - Ydata
+- Seaborn polynomial test
 
-After that the same operations I did for the linear regression dataset.
+After that the same operations I did for the linear regression dataset (but not Seaborn polynomial test).
 
 One dataset for regression purposes
 Target variable is a continuous value which is rating of a movie
