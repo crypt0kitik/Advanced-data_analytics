@@ -2,16 +2,17 @@ Evaluating dataset quality
 
 Goal: evaluate datasets' quality
 
-In this project I have 2 datasets. I started to work with the regression one which is about IMBD rating movie and for this one I tested the next tools: 
+In this project I have 2 datasets. I started to work with the classification one which is about IMBD rating movie and for this one I tested the next tools: 
 - Autoviz
 - Dataprer
 - LIME
 - Phik-matrix
 - Sweetviz
 - Ydata
-- Seaborn polynomial test
 
-After that the same operations I did for the linear regression dataset (but not Seaborn polynomial test).
+After that the same operations I did for the regression dataset plus:
+- Seaborn polynomial test
+- Mad test
 
 One dataset for regression purposes
 Target variable is a continuous value which is rating of a movie
