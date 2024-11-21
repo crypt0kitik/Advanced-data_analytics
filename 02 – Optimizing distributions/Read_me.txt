@@ -2,12 +2,12 @@ Every folder has a separate report with screenshots
 in order to provide you with the same view that 
 I have and in order to avoid crushing
 
-Classification datase - bank
+Classification datased - bank
 01 -  Sampling technique (oversampling) - ADASYN    
 02 - Data synthetization (SMOTE)
 02 - Data synthetization (CTGAN)  
+03 - Noise Management (ClusterCentroids) + Log.reg model for comparison of metrics
 --- not done yet:
-03 - Noise Management (ClusterCentroids)
 04 - Overlap Management (Tomek Links)
 05 - Outlier Management (Isolation Forest)
 05 - Outlier Management (Elliptic Envelope)
