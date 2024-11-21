@@ -15,6 +15,7 @@ Regression dataset - movies
 02 - Data synthetization (SDV)  
 
 Other datasets for experiments
-01 - Sampling technique (undersampling)   
+01 - Sampling technique (undersampling)
+01 - Hybrid Resampling (Undersampling + Oversampling)   
 02 - Data synthetization (TabFairGAN) 
 02 - Data synthetization (GMMs) 
