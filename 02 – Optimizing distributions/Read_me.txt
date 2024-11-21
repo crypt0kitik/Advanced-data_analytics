@@ -7,9 +7,9 @@ Classification datased - bank
 02 - Data synthetization (SMOTE)
 02 - Data synthetization (CTGAN)  
 03 - Noise Management (ClusterCentroids) + Log.reg model for comparison of metrics
-04 - Overlap Management (Tomek Links)
+04 - Overlap Management (Tomek Links) + Log.reg model for comparison of metrics (amazing results)
+05 - Outlier Management (Isolation Forest) -- working on this one now
 --- not done yet:
-05 - Outlier Management (Isolation Forest)
 05 - Outlier Management (Elliptic Envelope)
 
 Regression dataset - movies
