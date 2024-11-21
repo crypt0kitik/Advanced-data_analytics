@@ -12,10 +12,12 @@ Regression dataset - movies
     Data Augmentation with Noise 
     & Round the Ratings to Match Existing Values
 02 - Data synthetization (CTGAN)  
+not done yet:
 02 - Data synthetization (SDV)  
 
 Other datasets for experiments
 01 - Sampling technique (undersampling)
 01 - Hybrid Resampling (Undersampling + Oversampling)   
+not done yet:
 02 - Data synthetization (TabFairGAN) 
 02 - Data synthetization (GMMs) 
