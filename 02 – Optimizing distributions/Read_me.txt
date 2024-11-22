@@ -16,7 +16,7 @@ Regression dataset - movies
     Data Augmentation with Noise 
     & Round the Ratings to Match Existing Values
 02 - Data synthetization (CTGAN) 
-02 - Data synthetization (SDV)  --- working on it (SDV modules does not work)
+02 - Data synthetization (SDV)  --- working on it (issues with installing SDV modules)
 03 - Noise Management (MAD)
 03 - Noise Management (RANSAC) + 2 regressions with RANSAC and without for comparison
 04 - Overlap Management (Autoencoders)  + linear reg. model for comparison
