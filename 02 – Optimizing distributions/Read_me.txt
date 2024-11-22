@@ -19,12 +19,11 @@ Regression dataset - movies
 02 - Data synthetization (SDV)  --- working on it (SDV modules does not work)
 03 - Noise Management (MAD)
 03 - Noise Management (RANSAC) + 2 regressions with RANSAC and without for comparison
+04 - Overlap Management (Autoencoders)  + linear reg. model for comparison
+05 - Outlier Management (IQR + Isolation Forest) 
 
 
-04 - Overlap Management (Autoencoders) --- working on it
-05 - Outlier Management (IQR)
-05 - Outlier Management (IQR + Isolation Forest)
-05 - Outlier Management (z-score)
+05 - Outlier Management (z-score) -- working on it
 
 Other datasets for experiments
 01 - Sampling technique (undersampling)
