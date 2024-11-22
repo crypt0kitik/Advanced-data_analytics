@@ -21,13 +21,12 @@ Regression dataset - movies
 03 - Noise Management (RANSAC) + 2 regressions with RANSAC and without for comparison
 04 - Overlap Management (Autoencoders)  + linear reg. model for comparison
 05 - Outlier Management (IQR + Isolation Forest) 
-
-
-05 - Outlier Management (z-score) -- working on it
+05 - Outlier Management (z-score) 
 
 Other datasets for experiments
 01 - Sampling technique (undersampling)
 01 - Hybrid Resampling (Undersampling + Oversampling)   
---- not done yet:
-02 - Data synthetization (TabFairGAN) 
+
+
+02 - Data synthetization (TabFairGAN) -- working on it
 02 - Data synthetization (GMMs) 
