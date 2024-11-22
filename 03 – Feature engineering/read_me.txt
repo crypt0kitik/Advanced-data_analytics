@@ -9,6 +9,8 @@ Classification dataset - bank
 04 - High cardinality management: Feature hashing
 04 - High cardinality management: Grouping rare categories together
 
+
+
 Regression dataset - movies
 01 - Mutual Information & SHAP, LIME  - comparison
 02 - Additive interactions & Categorical interactions - comparison
@@ -16,4 +18,3 @@ Regression dataset - movies
 04 - High cardinality management: Frequency encoding
 04 - High cardinality management: CategoryEncoders
 05 - Cluster profiling
-
