@@ -1,6 +1,7 @@
-Every folder has a separate report with screenshots 
-in order to provide you with the same view that 
-I have and in order to avoid crushing
+I have included three separate reports with screenshots 
+to provide you with the same perspective I have 
+and to ensure smooth functionality without any crashes.
+
 
 Classification datased - bank
 01 - Sampling technique (oversampling) - ADASYN    
@@ -16,7 +17,7 @@ Regression dataset - movies
     Data Augmentation with Noise 
     & Round the Ratings to Match Existing Values
 02 - Data synthetization (CTGAN) 
-02 - Data synthetization (SDV)  --- working on it (issues with installing SDV modules)
+02 - Data synthetization (SDV)  --- (issues with installing the SDV module)
 03 - Noise Management (MAD)
 03 - Noise Management (RANSAC) + 2 regressions with RANSAC and without for comparison
 04 - Overlap Management (Autoencoders)  + linear reg. model for comparison
@@ -26,7 +27,5 @@ Regression dataset - movies
 Other datasets for experiments
 01 - Sampling technique (undersampling)
 01 - Hybrid Resampling (Undersampling + Oversampling)   
-
-
-02 - Data synthetization (TabFairGAN) -- working on it
+02 - Data synthetization (TabFairGAN) -- (issues with installing the SDV module)
 02 - Data synthetization (GMMs) 
