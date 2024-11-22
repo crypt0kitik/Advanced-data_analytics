@@ -3,7 +3,7 @@ in order to provide you with the same view that
 I have and in order to avoid crushing
 
 Classification datased - bank
-01 -  Sampling technique (oversampling) - ADASYN    
+01 - Sampling technique (oversampling) - ADASYN    
 02 - Data synthetization (SMOTE)
 02 - Data synthetization (CTGAN)  
 03 - Noise Management (ClusterCentroids) + Log.reg model for comparison of metrics
@@ -16,8 +16,9 @@ Regression dataset - movies
     Data Augmentation with Noise 
     & Round the Ratings to Match Existing Values
 02 - Data synthetization (CTGAN)  
+02 - Data synthetization (SDV)  --- working on it
+
 --- not done yet:
-02 - Data synthetization (SDV)  
 03 - Noise Management (MAD)
 03 - Noise Management (RANSAC)
 04 - Overlap Management (Autoencoders)
