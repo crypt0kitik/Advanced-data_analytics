@@ -3,8 +3,8 @@
 Classification dataset - bank
 01 - SelectKBest, Fisher score & RFE - comparison
 01 - Correlation matrix & phik-matrix - comparison
-02 - Multiplicative interactions & Ratio features - comparison --working on this now
-03 - Redundancy management and dimensionality reduction
+02 - Multiplicative interactions & Ratio features - comparison
+03 - Redundancy management and dimensionality reduction--working on this now
 04 - High cardinality management: Target encoding
 04 - High cardinality management: Feature hashing
 04 - High cardinality management: Grouping rare categories together
