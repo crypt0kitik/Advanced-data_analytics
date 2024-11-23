@@ -6,8 +6,8 @@ Classification dataset - bank
 02 - Multiplicative interactions & Ratio features - comparison
 03 - Redundancy management and dimensionality reduction 
 04 - High cardinality management: Target encoding 
-04 - High cardinality management: Feature hashing --working on this now
-04 - High cardinality management: Grouping rare categories together
+04 - High cardinality management: Feature hashing 
+04 - High cardinality management: Grouping rare categories together --working on this now
 
 
 
