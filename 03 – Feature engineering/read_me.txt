@@ -16,8 +16,8 @@ Classification dataset - bank
 
 Regression dataset - movies
 01 - Mutual Information & SHAP, LIME: very good insights
-02 - Additive interactions & Categorical interactions --working on this now
-03 - Deep Feature Synthesis (DFS)
+02 - Additive interactions & Categorical interactions
+03 - Deep Feature Synthesis (DFS) --working on this now
 04 - High cardinality management: Frequency encoding
 04 - High cardinality management: CategoryEncoders
 05 - Cluster profiling
