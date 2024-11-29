@@ -18,6 +18,6 @@ Regression dataset - movies
 01 - Mutual Information & SHAP, LIME: very good insights
 02 - Additive interactions & Categorical interactions
 03 - Deep Feature Synthesis (DFS) 
-04 - High cardinality management: Frequency encoding --working on this now
-04 - High cardinality management: CategoryEncoders
+04 - High cardinality management: Frequency encoding 
+04 - High cardinality management: CategoryEncoders --working on this now
 05 - Cluster profiling
