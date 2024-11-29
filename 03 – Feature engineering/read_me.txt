@@ -19,5 +19,5 @@ Regression dataset - movies
 02 - Additive interactions & Categorical interactions
 03 - Deep Feature Synthesis (DFS) 
 04 - High cardinality management: Frequency encoding 
-04 - High cardinality management: CategoryEncoders --working on this now
+04 - High cardinality management: LeaveOneOut Encoding
 05 - Cluster profiling
